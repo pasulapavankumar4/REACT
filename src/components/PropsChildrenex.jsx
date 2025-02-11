@@ -7,7 +7,7 @@ const PropsChildrenex = (props) => {
     <div>
         <h1>{props.username}</h1>
         <h3>{props.company}</h3>
-        {
+        {4
             props.children
         }
     </div>
